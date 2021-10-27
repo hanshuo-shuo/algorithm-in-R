@@ -1,0 +1,222 @@
+The result for RSSE 
+[[1]]
+[[1]]$lm123
+
+Call:
+lm(formula = y ~ x1 + x2 + x3, data = data)
+
+Coefficients:
+(Intercept)           x1           x2           x3  
+    -6.5564       0.0763       0.4262      -0.3225  
+
+
+[[1]]$lm1
+
+Call:
+lm(formula = y ~ x1)
+
+Coefficients:
+(Intercept)           x1  
+    -0.8004       0.1096  
+
+
+[[1]]$lm12
+
+Call:
+lm(formula = y ~ x1 + x2)
+
+Coefficients:
+(Intercept)           x1           x2  
+   -9.33688      0.08259      0.11864  
+
+
+[[1]]$lm13
+
+Call:
+lm(formula = y ~ x1 + x3)
+
+Coefficients:
+(Intercept)           x1           x3  
+    1.46867      0.11541     -0.02938  
+
+
+[[1]]$lm23
+
+Call:
+lm(formula = y ~ x2 + x3)
+
+Coefficients:
+(Intercept)           x2           x3  
+   -28.7296       0.8003      -0.3799  
+
+
+[[1]]$lm2
+
+Call:
+lm(formula = y ~ x2)
+
+Coefficients:
+(Intercept)           x2  
+   -34.2413       0.4695  
+
+
+[[1]]$lm3
+
+Call:
+lm(formula = y ~ x3)
+
+Coefficients:
+(Intercept)           x3  
+   -40.1383       0.5204  
+
+
+
+
+The result for cp 
+[[1]]
+[[1]]$lm123
+
+Call:
+lm(formula = y ~ x1 + x2 + x3, data = data)
+
+Coefficients:
+(Intercept)           x1           x2           x3  
+    -6.5564       0.0763       0.4262      -0.3225  
+
+
+[[1]]$lm1
+
+Call:
+lm(formula = y ~ x1)
+
+Coefficients:
+(Intercept)           x1  
+    -0.8004       0.1096  
+
+
+[[1]]$lm12
+
+Call:
+lm(formula = y ~ x1 + x2)
+
+Coefficients:
+(Intercept)           x1           x2  
+   -9.33688      0.08259      0.11864  
+
+
+[[1]]$lm13
+
+Call:
+lm(formula = y ~ x1 + x3)
+
+Coefficients:
+(Intercept)           x1           x3  
+    1.46867      0.11541     -0.02938  
+
+
+[[1]]$lm23
+
+Call:
+lm(formula = y ~ x2 + x3)
+
+Coefficients:
+(Intercept)           x2           x3  
+   -28.7296       0.8003      -0.3799  
+
+
+[[1]]$lm2
+
+Call:
+lm(formula = y ~ x2)
+
+Coefficients:
+(Intercept)           x2  
+   -34.2413       0.4695  
+
+
+[[1]]$lm3
+
+Call:
+lm(formula = y ~ x3)
+
+Coefficients:
+(Intercept)           x3  
+   -40.1383       0.5204  
+
+
+
+
+The result for AIC 
+[[1]]
+[[1]]$lm123
+
+Call:
+lm(formula = y ~ x1 + x2 + x3, data = data)
+
+Coefficients:
+(Intercept)           x1           x2           x3  
+    -6.5564       0.0763       0.4262      -0.3225  
+
+
+[[1]]$lm1
+
+Call:
+lm(formula = y ~ x1)
+
+Coefficients:
+(Intercept)           x1  
+    -0.8004       0.1096  
+
+
+[[1]]$lm12
+
+Call:
+lm(formula = y ~ x1 + x2)
+
+Coefficients:
+(Intercept)           x1           x2  
+   -9.33688      0.08259      0.11864  
+
+
+[[1]]$lm13
+
+Call:
+lm(formula = y ~ x1 + x3)
+
+Coefficients:
+(Intercept)           x1           x3  
+    1.46867      0.11541     -0.02938  
+
+
+[[1]]$lm23
+
+Call:
+lm(formula = y ~ x2 + x3)
+
+Coefficients:
+(Intercept)           x2           x3  
+   -28.7296       0.8003      -0.3799  
+
+
+[[1]]$lm2
+
+Call:
+lm(formula = y ~ x2)
+
+Coefficients:
+(Intercept)           x2  
+   -34.2413       0.4695  
+
+
+[[1]]$lm3
+
+Call:
+lm(formula = y ~ x3)
+
+Coefficients:
+(Intercept)           x3  
+   -40.1383       0.5204  
+
+
+
+
